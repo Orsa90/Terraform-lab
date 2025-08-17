@@ -1,4 +1,4 @@
-# triggering CI test 1
+# triggering CI test 2
 terraform {
     required_providers {
         aws = {
