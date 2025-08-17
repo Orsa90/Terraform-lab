@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v3
       
       - name: setpup Terraform
-        uses: hashicorp/setpup-Terraform@v2
+        uses: hashicorp/setup-Terraform@v2
 
       - name: Terraform init
         run: Terraform init
